@@ -112,5 +112,4 @@ Built for the **Embedded Systems** course in the B.Sc. Computer Science & Engine
 
 ## Authors
 
-- **Anas ElNemr**
-- **Ahmed Eltawel**
+Anas ElNemr  ·  Ahmed Eltawel
